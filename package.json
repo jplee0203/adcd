@@ -1,0 +1,23 @@
+{
+  "name": "adcd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jplee0203/adcd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jplee0203/adcd/issues"
+  },
+  "homepage": "https://github.com/jplee0203/adcd#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
